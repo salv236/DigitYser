@@ -6,6 +6,7 @@ Useful Resources:
 * [Solution Design Gitbook](https://elewa-academy.github.io/Solution-Design/)
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
 * [Micro-Projects for fun](https://elewa-academy.github.io/micro-projects/)
+* [Study Journal](https://elewa-academy.github.io/Fundamentals/00-motivation-studying/)
 
 ---
 
