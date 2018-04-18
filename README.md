@@ -1,4 +1,4 @@
-# Digityser, Brussels.  Home Page
+# Digityser, Brussels
 
 Useful Resources:
 * [Course plan & history](https://github.com/elewa-open-bootcamp/digityser/wiki)
