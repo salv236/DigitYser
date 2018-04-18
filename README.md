@@ -1,8 +1,8 @@
 # Digityser, Brussels
 
 Useful Resources:
-* [Course plan & history](https://github.com/elewa-open-bootcamp/digityser/wiki)
-* [Collective notes](https://github.com/elewa-open-bootcamp/digityser/tree/master)
+* [Course plan & history](https://github.com/elewa-academy/digityser/wiki)
+* [Collective notes](https://github.com/elewa-academy/digityser/tree/master)
 * [Solution Design Gitbook](https://elewa-academy.github.io/Solution-Design/)
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
 * [Micro-Projects for fun](https://elewa-academy.github.io/micro-projects/)
