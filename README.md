@@ -12,6 +12,7 @@ Useful Resources:
 
 Members:
 * [demo portfolio](https://elewa-student.github.io)
+* [Daniel Leufer](https://dleufer.github.io)
 
 
 
