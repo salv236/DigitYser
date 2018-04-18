@@ -11,7 +11,7 @@ Useful Resources:
 ---
 
 Members:
-* (link your portfolios here)
+* [demo portfolio](https://elewa-student.github.io)
 
 
 
